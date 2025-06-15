@@ -1,6 +1,6 @@
 ---
 title: "Learning languages"
-excerpt: "I am so addicted to Duolingo! I am also interested in comparative linguistics. <br/><img src='/images/duolingo.jpg' style="width:30%; height:auto;">"
+excerpt: "I am so addicted to Duolingo! I am also interested in comparative linguistics. <br/><img src='/images/duolingo.jpg' style='width:30%; height:auto;'>"
 collection: hobbies
 ---
 
