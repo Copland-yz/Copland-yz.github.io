@@ -1,7 +1,7 @@
 ---
-title: "Teaching assistant of an undergraduate course"
+title: "Teaching assistant of <i>The Solar System</i>"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "Washington University in St. Louis, Department of Earth, Environmental, and Planetary Sciences"
 date: 2024-01-01
