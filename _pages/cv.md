@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Washington University in St. Louis, 2027 (expected)
+* A.M. in Washington University in St. Louis, 2024
+* B.S. in University of Science and Technology of China, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024-2027: Research Assistant
+  * Washington University in St. Louis
+  * Conducting experiments to induce water-rock interactions in simulated lunar polar condition, and characterize using Raman, IR spectroscopy, and SEM etc.
+  * Advisor: Bradley Jolliff and Alian Wang
   
 Skills
 ======
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Participated in a few outreach events in the local science museum demonstrating geology and petrology related activities.
