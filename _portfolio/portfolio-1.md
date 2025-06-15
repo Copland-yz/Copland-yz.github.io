@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Learning languages"
+excerpt: "I am so addicted to Duolingo! I am also interested in comparative linguistics. <br/><img src='/images/duolingo.jpg'>"
 collection: hobbies
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Languages are so fascinating! They shape our human minds. I know AI has made translation so easy, but I am learning languages to explore how they shape our minds and how they connect with each other. Besides, it is quite different to read a book in translated version vs. its original version.
