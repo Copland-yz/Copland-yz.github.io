@@ -22,7 +22,7 @@ repository               : "Copland-yz/Copland-yz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Chengzheng (Copland) Yong"
   pronouns         : # example: "she/her"  
   bio              : "Vivre à en crever!"
