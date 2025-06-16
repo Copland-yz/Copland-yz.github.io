@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Washington University in St. Louis, 2027 (expected)
+* Ph.D. in Washington University in St. Louis, 2027 (expected)
 * A.M. in Washington University in St. Louis, 2024
 * B.S. in University of Science and Technology of China, 2022
 
@@ -22,15 +22,20 @@ Work experience
   * Washington University in St. Louis
   * Conducting experiments to induce water-rock interactions in simulated lunar polar condition, and characterize using Raman, IR spectroscopy, and SEM etc.
   * Advisor: Bradley Jolliff and Alian Wang
+
+Honors and Awards
+======
+
+* Catalyst Awards for Science Advancement (CASA) 2025 spring awardee ($3000)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: proficient
+* Lab skills
+  * Raman spectrometer operation
+  * FT-IR spectrometer operation
+  * Vacuum chamber
+* Tire change 
 
 Publications
 ======
