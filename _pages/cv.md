@@ -35,7 +35,9 @@ Skills
   * Raman spectrometer operation
   * FT-IR spectrometer operation
   * Vacuum chamber
-* Tire change 
+* Tire change
+* Whistle
+* Many languages (but only pronounciation)
 
 Publications
 ======
