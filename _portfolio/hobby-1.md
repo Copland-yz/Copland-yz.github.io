@@ -4,4 +4,4 @@ excerpt: "I am proudly an alumnus in the WashU Sensasians group! We are a group 
 collection: hobbies
 ---
 
-This is when I (and Hanrui) were soloists for the song <i>Line without a hook<i/>. <br/><img src='/images/Sensasians-solo.jpg' style='width:30%; height:auto;'>
+This is when I (and Hanrui) were soloists for the song <i>Line without a hook<i/>. <br/><img src='/images/Sensasians-solo.jpg' style='width:80%; height:auto;'>
