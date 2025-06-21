@@ -13,6 +13,7 @@ tags:
 * Awesome GPT plugin for zotero (if you don't have one, check "Awesome GPT installation" below)
 * A Gemini API (if you don't have one, check "Getting Gemini API" below)
 * A SiliconFlow API (if you don't have one, check "Getting SiliconFlow API" below)
+
 If you have all above, you can jump to "Deploy" section!
 
 ### Awesome GPT installation
