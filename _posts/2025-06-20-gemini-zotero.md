@@ -6,7 +6,10 @@ tags:
   - Gemini
   - AI
   - LLM
+  - Zotero
 ---
+
+Once you successfully deploy it, you can let AI summarize a paper for you with one click, or select a few papers in the same field and ask for a review, get a new idea based on their correlations, or ask if there is a knowledge gap in this field etc. Check it out!
 
 ### The recipes you should have
 * Zotero version 7.x (my example is 7.0.15)
