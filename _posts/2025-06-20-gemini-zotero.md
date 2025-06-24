@@ -27,5 +27,5 @@ If you have all above, you can jump to "Deploy" section!
 ### Awesome GPT installation
 You can download it from the [Zotero Chinese forum](https://zotero-chinese.com/plugins/) or the [github release](https://github.com/MuiseDestiny/zotero-gpt/releases).
 In Tools->Plugins, click this little gear, you can choose to "Install Plugin From File". Choose the file (zotero-gpt.xpi) you just downloaded, and your installation is complete (hopefully)!
-<img src="/images/plugin install.png" alt="Plugin install" width="600">
+<img src="/images/plugin install.png" alt="Plugin install" width="750">
 
