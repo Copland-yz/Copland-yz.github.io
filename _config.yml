@@ -221,7 +221,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  hobbies:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -267,10 +267,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _hobbies
   - scope:
       path: ""
-      type: portfolio
+      type: hobbies
     values:
       layout: single
       author_profile: true
