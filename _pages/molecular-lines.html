@@ -334,7 +334,13 @@ async function loadMolecularDatabase() {
 }
 
 function generatePeriodicTable() {
+    console.log('Starting periodic table generation...');
     const table = document.getElementById('periodic-table');
+    if (!table) {
+        console.error('Could not find periodic-table element!');
+        return;
+    }
+    console.log('Found periodic table element, clearing content...');
     table.innerHTML = '';
     
     layout.forEach(row => {
@@ -502,8 +508,10 @@ async function performSearch() {
 
 // Initialize the periodic table when the page loads
 document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM loaded, initializing periodic table...');
     // Add class to body for CSS scoping
     document.body.classList.add('molecular-lines-page');
     generatePeriodicTable();
+    console.log('Periodic table generation completed');
 });
 </script>
