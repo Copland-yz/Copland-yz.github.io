@@ -17,6 +17,7 @@ Once you successfully deploy it, you can let AI summarize a paper for you with o
 (An example of asking for a knowledge gap and a new idea based multiple papers)
 
 ### The recipes you should have
+
 * Zotero version 7.x (my example is 7.0.15)
 * Awesome GPT plugin for zotero (if you don't have one, check "Awesome GPT installation" below)
 * A Gemini API (if you don't have one, check "Getting Gemini API" below)
@@ -25,7 +26,23 @@ Once you successfully deploy it, you can let AI summarize a paper for you with o
 If you have all above, you can jump to "Deploy" section!
 
 ### Awesome GPT installation
+
 You can download it from the [Zotero Chinese forum](https://zotero-chinese.com/plugins/) or the [github release](https://github.com/MuiseDestiny/zotero-gpt/releases).
-In Tools->Plugins, click this little gear, you can choose to "Install Plugin From File". Choose the file (zotero-gpt.xpi) you just downloaded, and your installation is complete (hopefully)!
+In Tools->Plugins, click this little gear, choose "Install Plugin From File". Choose the file (zotero-gpt.xpi) you just downloaded, and your installation is complete (hopefully)!
 <img src="/images/plugin install.png" alt="Plugin install" width="750">
+
+### Get Google Gemini API
+
+Go to [AI Studio](https://aistudio.google.com/), click "Get API key", then click "+ Create API key", you will get a very long code. This is your Gemini API key. It is free, if your usage is within its plan for free clients. 
+
+### Get a SiliconFlow API
+
+This is for embedding Gemini into AwesomeGPT, also free. Go to [SiliconFlow](https://cloud.siliconflow.com/), login with any method, then click "API Keys", then "Create API Key". 
+
+### Awesome GPT configuration
+
+![](/image/GPT-config.png)
+
+Simply apply the settings in this image. Make sure to choose "Full API" for Gemini. The model is not very important, for summarization, gemini-2.0-flash and gemini-2.5-flash are about the same. You can tune the "Temperature" higher if you want gemini to say something more creative (or crazier). Paste your Gemini API key in there, and paste your SiliconFlow API key down there (yeah you should check "Using custon embeddings first"), then you are all set! Play with it!
+
 
