@@ -41,7 +41,7 @@ This is for embedding Gemini into AwesomeGPT, also free. Go to [SiliconFlow](htt
 
 ### Awesome GPT configuration
 
-![](/image/GPT-config.png)
+<img src="/images/GPT-config.png" alt="configuration" width="750">
 
 Simply apply the settings in this image. Make sure to choose "Full API" for Gemini. The model is not very important, for summarization, gemini-2.0-flash and gemini-2.5-flash are about the same. You can tune the "Temperature" higher if you want gemini to say something more creative (or crazier). Paste your Gemini API key in there, and paste your SiliconFlow API key down there (yeah you should check "Using custon embeddings first"), then you are all set! Play with it!
 
