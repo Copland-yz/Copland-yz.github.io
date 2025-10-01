@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * Ph.D. in Washington University in St. Louis, 2027 (expected)
 * A.M. in Washington University in St. Louis, 2024
 * B.S. in University of Science and Technology of China, 2022
@@ -27,9 +28,10 @@ Honors and Awards
 ======
 
 * Catalyst Awards for Science Advancement (CASA) 2025 spring awardee ($3000)
-  
+
 Skills
 ======
+
 * Python: proficient
 * Lab skills
   * Raman spectrometer operation
@@ -41,22 +43,26 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+<!-- Talks -->
 ======
-  <ul>{% for post in site.talks reversed %}
+
+<!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+
+<ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
+
 * Participated in a few outreach events in the local science museum demonstrating geology and petrology related activities.
