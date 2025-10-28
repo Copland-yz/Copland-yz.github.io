@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "Welcome to Chengzheng Yong's website!"
+excerpt: "Chengzheng (Copland) Yong - PhD candidate at Washington University in St. Louis researching planetary science, water in the solar system, and astrobiology. Expertise in Mars water history, lunar resource utilization, and molecular spectroscopy."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
