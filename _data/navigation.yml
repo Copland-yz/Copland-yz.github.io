@@ -11,23 +11,23 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Talks"
+    url: /talks/
+
   - title: "MELT"
     url: https://copland-yz.github.io/MELT/
     
   - title: "Hobbies"
     url: /hobbies/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
